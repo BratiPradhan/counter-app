@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BratiPradhan/counter-app.git/static/css/main.53fc3518.chunk.css",
+    "main.js": "/BratiPradhan/counter-app.git/static/js/main.72306a14.chunk.js",
+    "main.js.map": "/BratiPradhan/counter-app.git/static/js/main.72306a14.chunk.js.map",
+    "runtime-main.js": "/BratiPradhan/counter-app.git/static/js/runtime-main.fae723cf.js",
+    "runtime-main.js.map": "/BratiPradhan/counter-app.git/static/js/runtime-main.fae723cf.js.map",
+    "static/js/2.6e118f41.chunk.js": "/BratiPradhan/counter-app.git/static/js/2.6e118f41.chunk.js",
+    "static/js/2.6e118f41.chunk.js.map": "/BratiPradhan/counter-app.git/static/js/2.6e118f41.chunk.js.map",
+    "index.html": "/BratiPradhan/counter-app.git/index.html",
+    "precache-manifest.acefa1e9772e7deab8c3be4a14062a19.js": "/BratiPradhan/counter-app.git/precache-manifest.acefa1e9772e7deab8c3be4a14062a19.js",
+    "service-worker.js": "/BratiPradhan/counter-app.git/service-worker.js",
+    "static/css/main.53fc3518.chunk.css.map": "/BratiPradhan/counter-app.git/static/css/main.53fc3518.chunk.css.map",
+    "static/js/2.6e118f41.chunk.js.LICENSE.txt": "/BratiPradhan/counter-app.git/static/js/2.6e118f41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae723cf.js",
+    "static/js/2.6e118f41.chunk.js",
+    "static/css/main.53fc3518.chunk.css",
+    "static/js/main.72306a14.chunk.js"
+  ]
+}
